@@ -21,14 +21,31 @@
 <p align="center"><a href="#screenshots">Screenshots</a> &bull; <a href="#development">Discreptions</a> &bull;<a href="#feature">Features</a> &bull; <a href="#component">Component</a> &bull;  
 <hr />
 
+## Blockchain poverty-stricken people identification
 
 
-
+`>>>>>>There is no scope to identify how many people in Bangladesh are in vulnerable situations and if they are receiving support.`
  
-## Screenshots
+ Solution: What if we make a blockchain relationship system. Where every node represents a people and line represent the family relationship between them. Also if we add all people's assets like house, car, filed or other assets in blockchain identity node than our intelligent system will find out which people are in poverty and who need relief. 
+
+ data source
+ ---
+ * Every land/house/car/other valuable asset purchase and sale will be digitally stored in the blockchain. Sow we will know who wons what.
+ * Every bank account asset amount will be added to the blockchain.
+ * If anyone is an employee and gets monthly payment then this data will also be in the block.
+ 
+ <img src="pictures/blockchain_identity.png" width="900"/>
+ 
+ 
+
 
 Mobile App
 ---
+
+`>>>A large portion of government aid is believed to be affected by corruption at the grassroots level.`
+
+`>>>Some people in the city may get support multiple times, while others in the countryside are getting deprived.`
+
  <img src="pictures/1.png" width="300"/> &nbsp; <img src="pictures/2.png" width="300"/> &nbsp; <img src="pictures/3.png" width="300" /> 
 <img src="pictures/4.png" width="300"/> &nbsp; <img src="pictures/4-1.png" width="300"/> &nbsp; <img src="pictures/5.png" width="300" />
 <img src="pictures/6.png" width="300"/> &nbsp; <img src="pictures/7.png" width="300"/> &nbsp; <img src="pictures/8.png" width="300" />
