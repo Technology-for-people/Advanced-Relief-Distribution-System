@@ -1,7 +1,7 @@
 
 
 
-<h2 align="center"><b>Advanced Relief Distrubution System</b></h2>
+<h2 align="center"><b>Advanced Relief Distrubution System with blockchain</b></h2>
 <h4 align="center">Mobile application for Relif distribution.</h4>
 
 
@@ -61,8 +61,10 @@ Web Dashboard
  Our solution is based upon a mobile app, website, and blockchain-based identity distribution. we try to solve the mismanagement of the relief distribution. With our mobile app, anyone can easily survey and register needy and poor people's identity with fingerprint or a QR code. When needy people take the relief they just need to verify his fingerprint on the Android phone. Then the app generates a QR code automatically. Next, the registration data will be sent to our database. As the amount of relief is given to the up chairman is known so we can get track of how the amount of rice/relief is given and or not. This will help to distribute relief without any corruption. Again a single person can't take twice the relief. 
 
 
+## Advantage :
 
-
+* No need of any kinds of hardware as everyone now a days have a smart phone.
+* Secure with blockchain technology.
 
 
 ## Features :
